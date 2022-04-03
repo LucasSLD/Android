@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="hello_app">Hello APP!</string>
+    <string name="nom">Nom :</string>
+    <string name="ok">OK</string>
+    <string name="enter_your_name_here">enter your name here</string>
+    <string name="name">\tName</string>
+</resources>
